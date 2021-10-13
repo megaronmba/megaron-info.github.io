@@ -149,17 +149,17 @@ font-weight: 900;
 
 a.fa.fa-angle-down {
 	padding: 10px 15px;
-	color: #fff;
-	border: 2px solid #fff;
+	color: #231F20;
+	border: 2px solid #231F20;
 	border-radius: 50%;
 	font-size: 24px;
 	margin-top: 100px;
 	transition: all 0.5s;
 }
 a.fa.fa-angle-down:hover{
-	background: #89fe9a;
+	background: #adadad;
 	color: #ffffff;
-	border: 2px solid #89fe9a;
+	border: 2px solid #adadad;
 }
 /* About Section */
 #tf-about{
@@ -175,9 +175,9 @@ a.fa.fa-angle-up {
 	transition: all 0.5s;
 }
 a.fa.fa-angle-up:hover{
-	background: #89fe9a;
+	background: #adadad;
 	color: #ffffff;
-	border: 2px solid #89fe9a;
+	border: 2px solid #adadad;
 }
 /* About Section */
 #tf-about{
