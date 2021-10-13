@@ -560,14 +560,14 @@ nav#footer p{
 #footer i.fa {
 	height: 30px;
 	width: 30px;
-	border: 2px solid #89fe9a;
+	border: 2px solid #f26722;
 	font-size: 20px;
 	padding: 4px 5px;
 	border-radius: 50%;
-	color: #89fe9a;
+	color: #f26722;
 	transition: all 0.5s;
 }
 #footer i.fa:hover{
-	background: #89fe9a;
+	background: #f26722;
 	border-color: #fff;
 	color: #ffffff;
