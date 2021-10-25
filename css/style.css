@@ -31,8 +31,7 @@ h4{
 	font-family: 'Open Sans', sans-serif;
 }
 h5{
-	text-transform: uppercase;
-	font-weight: 700;
+	font-weight: 500;
 	line-height: 20px;
 }
 p{
@@ -122,6 +121,7 @@ font-weight: 900;
 /* Home Style */
 #tf-home{
 	background: url(../img/01.jpg);
+	background: #e9e9e9;
 }
 
 #tf-home-f{
@@ -197,7 +197,7 @@ ul.about-list li span{
 
 /* Team Section */
 #tf-team{
-	background-color: #dbd6d2;
+	background-color: #e9e9e9;
 	color: #231f20;
 }
 #tf-teamX .overlay{
