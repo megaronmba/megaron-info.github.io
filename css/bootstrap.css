@@ -1078,7 +1078,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
-  background-color: #f26722;
+  background-color: #e9e9e9;
 }
 input,
 button,
@@ -1280,7 +1280,7 @@ h6,
   font-size: 12px;
 }
 p {
-  margin: 0 0 10px;
+  margin: 0 0 0px;
 }
 .lead {
   margin-bottom: 20px;
@@ -1604,7 +1604,7 @@ pre code {
   text-align: center;
   background-color: #231F20;
   width: 100%;
-  height: 200px;
+  height: 160px;
 }
 .titulo4 {
   padding-right: 5px;
