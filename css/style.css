@@ -2,10 +2,11 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,700,300,600,800,400);
 
 body, html{
-	font-family: 'Lato', sans-serif;
+	font-family: trebuchet, sans-serif, ThreeDDarkShadow;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
 	color: #231f20;
+
 }
 
 h1{
@@ -28,20 +29,20 @@ h4{
 	font-size: 18px;
 	font-weight: 500;
 	line-height: 30px;
-	font-family: 'Open Sans', sans-serif;
+	font-family: trebuchet, sans-serif;
 }
 h5{
 	font-weight: 500;
 	line-height: 20px;
 }
 p{
-	font-family: 'Open Sans', sans-serif;
+	font-family: trebuchet, sans-serif;
 }
 p.intro{
 	font-size: 16px;
 	margin: 12px 0 0;
 	line-height: 24px;
-	font-family: 'Open Sans', sans-serif;
+	font-family: trebuchet, sans-serif;
 }
 a{ color: #ffc0a0;}
 a:hover,
@@ -189,7 +190,7 @@ ul.about-list li{
 	font-size: 18px;
 	font-weight: 500;
 	line-height: 30px;
-	font-family: 'Open Sans', sans-serif;
+	font-family: trebuchet, sans-serif;
 }
 ul.about-list li span{ 
 	margin-right: 10px;
@@ -488,7 +489,7 @@ label {
 	float: left;
 	font-size: 12px;
 	font-weight: 400;
-	font-family: 'Open Sans', sans-serif;
+	font-family: trebuchet, sans-serif;
 }
 #tf-contact .form-control {
 	display: block;
